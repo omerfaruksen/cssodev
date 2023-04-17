@@ -1,0 +1,22 @@
+.baslik{
+    color: rgb(73, 141, 153);
+    text-align: center;
+ }
+
+ .yazılar{
+    text-align: center;
+    color: red;
+    font-size: 16px;
+ }
+
+ .position{
+    text-align: center;
+}
+
+.button{
+    background: yellow;
+}
+
+.bg-red{
+    background: red;
+}
